@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "autoprefixer",
+        "Capa",
+        "cloudinary",
+        "composables",
+        "daisyui",
+        "ipfs",
+        "kyvg",
+        "lootbox",
+        "mirzaei",
+        "mosha",
+        "njsproj",
+        "ntvs",
+        "Senat",
+        "sidus",
+        "sidusheroes",
+        "Sidust",
+        "SMAP",
+        "toastification",
+        "toastify",
+        "unhead"
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
