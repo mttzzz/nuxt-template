@@ -30,6 +30,12 @@ export default defineNuxtConfig({
           content: "Sample description",
         },
       ],
+      link: [
+        {
+          rel: "icon",
+          href: "favicon.svg",
+        },
+      ],
     },
   },
   css: ["@/assets/css/main.css"],
